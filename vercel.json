@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/(.*)",
+        "destination": "https://chat.openai.com/g/g-a4ndCRXBt-rock-my-profile",
+        "permanent": true
+      }
+    ]
+  }
+  
